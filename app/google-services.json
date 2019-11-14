@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116762008693",
+    "firebase_url": "https://finalprojectapp-13365.firebaseio.com",
+    "project_id": "finalprojectapp-13365",
+    "storage_bucket": "finalprojectapp-13365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116762008693:android:01ded58e268edc19",
+        "android_client_info": {
+          "package_name": "com.navjot.finalprojectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116762008693-ulv607qficqf7dg25hlgr8l009ge5tvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navjot.finalprojectapp",
+            "certificate_hash": "3cf9457ee8b617814c07560a6be81523d98d201a"
+          }
+        },
+        {
+          "client_id": "116762008693-o5h61ci36df7l78se8ki88l63iv35u9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBkPF7c1b_rdfBWPLDfsFmkC9Jy4XtFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116762008693-o5h61ci36df7l78se8ki88l63iv35u9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

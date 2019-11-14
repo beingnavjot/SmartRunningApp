@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">FinalProjectApp</string>
+    <string name="title_newsFeed">News</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_plans">Plans</string>
+    <string name="title_profile">Profile</string>
+
+
+    <string name="aboutMessage">Migliora la tua corsa con Running</string>
+    <string name="setting_unit">Veocità/Ritmo</string>
+    <string name="time">time</string>
+    <string name="speed">Velocità</string>
+    <string name="peace">Ritmo</string>
+    <string name="averageSpeed">Velocità media</string>
+    <string name="averagePeace">Ritmo medio</string>
+    <string name="distance">Distanza</string>
+    <string name="unit_kmh">Km/h</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_minKm">min per Km</string>
+    <string name="info">Ricerca GPS...</string>
+    <string name="enableGPSButtonLabel">Abilita GPS</string>
+    <string name="startButtonLabel">Vai a fare una Corsa</string>
+    <string name="stopButtonLabel">Termina</string>
+    <string name="pauseButtonLabel">Sospendi</string>
+    <string name="resumeButtonLabel">Riprendi</string>
+    <string name="gpsReady">Segnale GPS Presente</string>
+    <string name="aboutMenuName">Informazioni</string>
+
+
+    <!--<string name="aboutMessage"> Running</string>-->
+    <!--<string name="setting_unit">Veocità/Ritmo</string>-->
+    <!--<string name="time">time</string>-->
+    <!--<string name="speed">speed</string>-->
+    <!--<string name="peace">pace</string>-->
+    <!--<string name="averageSpeed">Avg speed</string>-->
+    <!--<string name="averagePeace">Avg pace</string>-->
+    <!--<string name="distance">Distance</string>-->
+    <!--<string name="unit_kmh">Km/h</string>-->
+    <!--<string name="unit_km">Km</string>-->
+    <!--<string name="unit_minKm">min per Km</string>-->
+    <!--<string name="info"> GPS...</string>-->
+    <!--<string name="enableGPSButtonLabel">Enable GPS</string>-->
+    <!--<string name="startButtonLabel">Start running</string>-->
+    <!--<string name="stopButtonLabel">stop</string>-->
+    <!--<string name="pauseButtonLabel">pause</string>-->
+    <!--<string name="resumeButtonLabel">Resume</string>-->
+    <!--<string name="gpsReady"> GPS signal Present</string>-->
+    <!--<string name="aboutMenuName">Information</string>-->
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="3dp"
+    android:background="@color/colorPurple"
+    tools:context=".BMIActivity">
+
+
+    <RelativeLayout
+android:background="@color/colorwhite"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="Weight"
+                android:textSize="20sp" />
+
+            <EditText
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:id="@+id/etxtWeigth"
+                android:hint="in Kg" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="Height"
+                android:textSize="20sp" />
+
+            <EditText
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:id="@+id/etxtHeight"
+                android:hint="in cm" />
+
+
+            <Button
+                android:id="@+id/calculate"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:background="@color/colorPurple"
+                android:onClick="calculateBMI"
+                android:text="Calculate BMI"
+                android:textColor="@color/colorwhite" />
+
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:text=""
+                android:textColor="@color/colorlightPurple"
+                android:layout_width="wrap_content"
+                android:layout_height="23dp"
+                android:id="@+id/txtViewResult"/>
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="160dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:src="@mipmap/bmi_table2" />
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</LinearLayout>
